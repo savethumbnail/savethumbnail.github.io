@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: savethumbnail.github.io
+Token: 965bfecf0c49cfa75d46b6b0723788e60208e591253c43ac7e0eeb9595c90d3a
