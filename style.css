@@ -1571,8 +1571,8 @@
     .help
 {
     text-align: center;
-    color: #000;
-    border: 15px solid red;
+    color: black;
+    border: 15px solid firebrick;
     padding: 20px;
     margin: 10px;
     width: 500px;
