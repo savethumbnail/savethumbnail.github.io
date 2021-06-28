@@ -1568,7 +1568,7 @@
       padding: 10px;
     }
 
-    .help
+  .help
 {
     text-align: center;
     color: black;
@@ -1578,6 +1578,32 @@
     width: 500px;
     
 }
+
+@media only screen and (max-width:500px) {
+  /* For mobile phones: conent*/
+  .help{
+   
+    color: #000000;
+    border: 15px solid firebrick;
+    padding: 20px;
+    margin: 10px;
+    width: 250px;
+    
+  }
+}
+
+@media only screen and (max-width:800px) {
+  /* For tablets: header text */
+   .help{
+    color: #000000;
+    border: 15px solid firebrick;
+    padding: 20px;
+    margin: 15px;
+    width: 500px;
+  }
+ 
+}
+
 
     /*
 @media only screen and (max-width: 767px){
