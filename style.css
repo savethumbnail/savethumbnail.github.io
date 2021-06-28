@@ -1531,12 +1531,7 @@
       padding: 20px;
     }
 
-    /* Fake image, just for this example */
-    .fakeimg {
-      background-color: #aaa;
-      width: 100%;
-      padding: 20px;
-    }
+ 
 
     /* Footer */
     /*
@@ -1577,6 +1572,12 @@
     margin: 10px;
     width: 500px;
     
+    
+}
+
+.btn-danger
+{
+  color: firebrick;
 }
 
 @media only screen and (max-width:500px) {
